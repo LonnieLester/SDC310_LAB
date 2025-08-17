@@ -1,0 +1,15 @@
+<div class="row">
+  <div class="col-sm-2">
+    <img class="img-fluid float-left" src="62161328.png" alt="Logo">
+  </div>
+  <div class="col-sm-8">
+    <h1 class="blue-text mb-4 font-bold">Fresh Food Shopping Mart! Get fresh produced delievered Locally Today!</h1>
+  </div>
+  <nav class="col-sm-2">
+    <div class="btn-group-vertical btn-group-sm" role="group" aria-label="Button Group">
+      <button type="button" class="btn btn-secondary" onclick="location.href = 'register-page.php'">Register</button>
+      <button type="button" class="btn btn-secondary" onclick="location.href = 'register-view_users-page.php'">View Users</button>
+      <button type="button" class="btn btn-secondary" onclick="location.href = 'register-password.php'">New Password</button>
+    </div>
+  </nav>
+</div>
